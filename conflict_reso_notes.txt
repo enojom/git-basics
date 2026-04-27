@@ -1,0 +1,4 @@
+When two branches edit the same file(s) and try to merge the changes, git does not know what to do.
+So, as a user, one must choose what changes to keep or remove.
+First, git asks you to choose the changes, then you must stage the files and then finally commit again
+to finally merge all the changes.
