@@ -1,5 +1,6 @@
 # Intro
 This is a README file
 
-# Making Changes
-This is a new change I made
+## Making a Conflict
+These are some words
+Conflicts must be fixed
