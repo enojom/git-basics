@@ -1,5 +1,6 @@
 # Intro
 This is a README file
 
-# Making Changes
-This is a new change I made
+# Preventing a Conflict
+One must be ready to fix conflicts
+They also should regularly communicate
